@@ -1,4 +1,4 @@
-# Super Store Retail Sales Analytics Dashboard
+# Kenzz Sales Analytics Dashboard
 
 ## Overview
 An interactive Power BI dashboard that analyzes the sales performance of a retail company across six pages: executive KPIs, products, discounts and pricing, regions, customers, and shipping operations. The goal is to show where the company makes and loses money and which actions would improve profitability.
